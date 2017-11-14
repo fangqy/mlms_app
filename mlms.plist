@@ -10,19 +10,19 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
-					<string>http://oowkqr1wj.bkt.clouddn.com/MLMSen.ipa</string>
+					<string>http://oxylz0a7o.bkt.clouddn.com/MLMS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://oowkqr1wj.bkt.clouddn.com/icon.png</string>
+					<string>http://oxylz0a7o.bkt.clouddn.com/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://oowkqr1wj.bkt.clouddn.com/icon.jpg</string>
+					<string>http://oxylz0a7o.bkt.clouddn.com/icon.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
